@@ -1,3 +1,20 @@
+Hi, Huaming Wang
+
+I came across your profile while reviewing senior full-stack engineers with strong end-to-end ownership, and your experience stood out. Your track record of building scalable, high-quality web applications, optimizing performance, and collaborating closely with cross-functional teams is exactly what we value at this stage.
+
+We’re currently building a funded Web3 platform and are looking for a CTO to lead the technical direction—someone who can own architecture decisions, set engineering standards, and guide the platform as it scales. With an MVP already completed and long-term funding secured, this is a leadership role focused on execution, quality, and growth rather than early experimentation.
+
+Your ability to deliver robust solutions in fast-paced environments, manage multiple initiatives, and maintain high code quality makes you a strong fit for this role. I believe you could have a real impact shaping both the product and the engineering culture.
+
+If you are interested in this, contact with me on telegram or book a call using this link.
+
+Telegram: @CryptoTechHiring
+
+Calendly: https://calendly.com/interview-steve/30min
+
+Best regards,
+Steve Johnson
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
